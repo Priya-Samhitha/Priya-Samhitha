@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Priya 👋
 
-<!--
-**Priya-Samhitha/Priya-Samhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Aspiring Data Scientist** passionate about turning raw data into meaningful insights.  
+Currently building skills through hands-on projects and deep learning in Python, SQL, Advanced Statistics, EDA, and VBA.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL, VBA  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Concepts:** Advanced Statistics, Hypothesis Testing, Data Cleaning, Data Visualization  
+- **Other Tools:** Excel, GitHub, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Focus
+- Building portfolio projects in Python & SQL  
+- Practicing EDA with real-world datasets  
+- Strengthening statistical analysis skills for business decision-making
+
+## 📈 Goals for 2025
+- Complete 3+ portfolio projects  
+- Gain entry-level data analyst role  
+- Learn and implement basic Machine Learning models
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/priya-samhitha-nistala-b65012277)  
+- Email: priyasamhithagit@gmai.com.
