@@ -20,5 +20,5 @@ Currently building skills through hands-on projects and deep learning in Python,
 - Learn and implement basic Machine Learning models
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/priya-samhitha-nistala-b65012277)  
+- (www.linkedin.com/in/priya-samhitha-nistala-b65012277)  
 - Email: priyasamhithagit@gmail.com.
