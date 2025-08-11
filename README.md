@@ -1,6 +1,6 @@
 # Hi, I'm Priya 👋
 
-I’m an **Aspiring Data Scientist** passionate about turning raw data into meaningful insights.  
+I’m an **Aspiring Data Aanalyst** passionate about turning raw data into meaningful insights.  
 Currently building skills through hands-on projects and deep learning in Python, SQL, Advanced Statistics, EDA, and VBA.
 
 ## 🔧 Skills & Tools
