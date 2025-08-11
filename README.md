@@ -21,4 +21,4 @@ Currently building skills through hands-on projects and deep learning in Python,
 
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/priya-samhitha-nistala-b65012277)  
-- Email: priyasamhithagit@gmai.com.
+- Email: priyasamhithagit@gmail.com.
